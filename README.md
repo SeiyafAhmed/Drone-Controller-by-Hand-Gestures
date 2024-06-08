@@ -1,7 +1,7 @@
 # Drone-Controller-by-Hand-Gestures
 This repository hosts a Python-based solution for controlling a drone using hand gestures. Leveraging computer vision technologies, particularly the powerful CVZone and OpenCV (cv2) libraries, this project enables intuitive and hands-free drone piloting.
 
-Features:
+Features:\n
 •	Gesture Recognition: The system is capable of recognizing various hand gestures, allowing users to control the drone's movement seamlessly.
 •	Real-time Processing: Utilizing the speed and efficiency of OpenCV, the system processes hand gestures in real-time, ensuring responsive and accurate control.
 •	Customizable: Developers can easily extend and customize the gesture recognition system to suit specific needs and preferences.
